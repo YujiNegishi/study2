@@ -1,3 +1,4 @@
+### create pkg ### 
 cd ~/catkin_ws/src
 catkin_create_pkg mypkg rospy
 cd mypkg/
